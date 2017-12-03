@@ -10,6 +10,7 @@ excerpt_separator: <!--more-->
 title:            Yopolazi  # Site title
 name:             Yopolazi  # Your name
 avatar:           /theme/img/logo-s-p.png   # Path to an avatar image
+logo:           /theme/img/logo.png   # Path to logo image
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.

@@ -2,6 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
+title: Yopolazi - World's Best Chili Oil
 ---
 
 {% include components/intro.md %}

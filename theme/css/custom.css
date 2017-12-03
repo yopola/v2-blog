@@ -7,8 +7,24 @@ body {
     padding-bottom: 1.5rem;
 }
 
-.header h3 {
-    margin-top: 0;
-    margin-bottom: 0;
-    line-height: 3rem;
+.w-80px {
+  width: 80px !important;
+}
+
+.mg-t-n5px {
+	margin-top: -5px !important;
+}
+
+a {
+	color: #000000 !important;
+	text-decoration: underline !important;
+}
+
+a:hover {
+	color: #d93915 !important;
+	font-weight: bold;
+}
+
+.font-size-mid {
+	font-size: 1rem;
 }
