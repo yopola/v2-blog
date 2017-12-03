@@ -1,3 +1,3 @@
-This is the homepage of an imaginary person called John Smith who lives in London, UK. It exists as a demo of the Friday Theme, a portfolio and blog theme for Jekyll.
+Yopolazi is handcrafted using a four hundred year-old artisanal process. Different from other oil infusion methods, this special process can fully activates every ingredient, and gives the final product multiple dimensions in flavor.
 
-Let's imagine John Smith is a freelance software engineer. He blogs occasionally, maintains some project pages for things he has on GitHub, and has a portfolio of work that he maintains instead of a CV. Friday Theme has layouts and collections for exactly that. This web site is a demo of it in action.
+You can use it for any food. As an ingredient, a condiment or salad dressing, Yopolazi can turn your home-cooked steamed vegetables into 5 star restaurant tastes instantly.

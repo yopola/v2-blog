@@ -14,6 +14,9 @@ body {
 .mg-t-n5px {
 	margin-top: -5px !important;
 }
+.mg-b-10px {
+	margin-bottom: 10px !important;
+}
 
 a {
 	color: #000000 !important;
