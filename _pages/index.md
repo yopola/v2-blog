@@ -6,7 +6,7 @@ title: Yopolazi - World's Best Chili Oil
 ---
 
 <div class="card mb-3">
-    <img class="card-img-top" src = "/theme/img/banner.jpg/">
+    <img class="card-img-top" src = "/theme/img/banner.jpg">
 </div>
 
 {% include components/intro.md %}
