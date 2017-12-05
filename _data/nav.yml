@@ -1,5 +1,5 @@
-- title: Home
-  href: index.html
+#- title: Home
+#  href: index.html
 
 #- title: About
 #  href: about.html
@@ -12,3 +12,6 @@
 
 - title: Recipes
   href: list/portfolio.html
+
+- title: Buy
+  href: https://www.amazon.com/shops/yopolazi

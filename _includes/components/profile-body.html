@@ -1,16 +1,17 @@
+<h3>Stay Connected</h3>
 <p class="card-text">
     {% for link in site.data.profile %}
-    <a href="{{link.href}}" class="d-flex align-items-center mb-1">
+    <a href="{{link.href}}" class="d-flex align-items-center mb-1" target="_blank" >
         <span class="icon grey mr-3">
             {% include {{link.icon}} %}
         </span>
         {{link.caption}}
     </a>
     {% endfor %}
-    <a href="href="mailto:someone@example.com?Subject=Feedback%20for%20Yopolazi" target="_top"" class="d-flex align-items-center mb-1">
+    <a href="http://eepurl.com/dcVvJb" class="d-flex align-items-center mb-1">
       <span class="icon grey mr-3">
-          {% include entypo/mail.svg %}
+          {% include entypo/rss.svg %}
       </span>
-      customer@yopolazi.com
+      Subscribe Recipes for Free
     </a>
 </p>
