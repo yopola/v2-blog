@@ -29,21 +29,13 @@ Yopolazi (Also known for Youpolazi) is a traditional chili oil from Xi'an, the o
 	- Salt (California)<br>
 	- Other Spices Mix (Sichuan, Southeast Asia, South America)<br>
 
-</p>
+clai</p>
 
 <hr>
 ## How To Use
 
 You can use it for any food, and we have a recommended list below:
 {% include components/usage.html %}
-You can [find more recipes]({{ site.baseurl }}{% link list/portfolio.html %}) with yopolazi in our recipes page.
-
-
-<hr>
-## Featuring Recipes
-
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
+You can [Find More Recipes]({{ site.baseurl }}{% link list/portfolio.html %}) with yopolazi in our recipes page.
 
 
