@@ -24,10 +24,10 @@ Yopolazi (Also known for Youpolazi) is a traditional chili oil from Xi'an, the o
 	- Vegetable Oil (California)<br>
 	- Chili Pepper (California)<br>
 	- Pepper Corn (Sichuan)<br>
-	- White Pepper (South Asia)<br>
+	- White Pepper (Southeast Asia)<br>
 	- Seasame (India)<br>
 	- Salt (California)<br>
-	- Spices Mix (Sichuan, South Asia, South America)<br>
+	- Other Spices Mix (Sichuan, Southeast Asia, South America)<br>
 
 </p>
 
